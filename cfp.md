@@ -7,17 +7,6 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 # Call for Papers
 
-## Important Dates<a name="important-dates"></a>
-
-- Submission Deadline: **November 15, 2019**
-
-### Submission Site<a name="submission-site"></a>
-
-The submission site will be notified soon. 
-
-
-## Call for Papers<a name="cfp"></a>
-
 Contributions are welcome in the following categories:
 
 - Tasks: New kinds of CQA tasks from various real-world domains
@@ -29,6 +18,14 @@ Contributions are welcome in the following categories:
 - Transferability Across Domains: Evaluating the flexibility of proposed techniques and representations
 
 Contributions on other topics that are related and relevant to the workshop's theme are also welcomed.
+
+## Important Dates<a name="important-dates"></a>
+
+- Submission Deadline: **November 15, 2019**
+
+### Submission Site<a name="submission-site"></a>
+
+The submission site will be notified soon. 
 
 
 ### Submission Format
