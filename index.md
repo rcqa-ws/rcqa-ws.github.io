@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RCQA @ AAAI 2020
+title: RCQA@AAAI
 subtitle: Reasoning for Complex QA Workshop 2020
 ---
 
@@ -21,7 +21,7 @@ To better align progress in the field of QA with the expectations that we have o
 
 The main aim of this workshop is to bring together experts from the computational linguistics (CL) and AI communities to: (1) catalyze progress on the CQA problem, and create a vibrant test-bed of problems for various AI sub-fields; and (2) present a generalized task that can act as a harbinger of progress in AI.
 
-We solicit submissions in the form of papers (short and long), posters, demos, panel ideas, and other suggestions. A submission site will be notified soon; in the meantime, suggestions on topics or programs to include in the workshop may be emailed to Kartik Talamadupula (krtalamad@us.ibm.com).
+We solicit submissions in the form of papers (short and long), posters, demos, panel ideas, and other suggestions. A submission site will be notified soon; in the meantime, suggestions on topics or programs to include in the workshop may be emailed to Kartik Talamadupula [krtalamad@us.ibm.com](mailto:krtalamad@us.ibm.com).
 
 ## Important Dates<a name="important-dates"></a>
 
@@ -46,9 +46,8 @@ Contributions are welcome in the following categories:
 
 Contributions on other topics that are related and relevant to the workshop's theme are also welcomed.
 
- 
 
-Submissions:
+### Submission Format
 
 We welcome submissions describing work that is relevant to the workshop and/or the topics above, or proposals for discussion topics that will be of interest to at workshop.
 
@@ -57,8 +56,8 @@ Submissions are accepted in PDF format, following the AAAI-19 formatting guideli
 Submissions are not anonymous; please include author information on your submission, and de-anonymize any references to past work that the submissions builds upon.
 
 
-### Past Workshops<a name="past-workshops"></a>
+### Related Workshops<a name="past-workshops"></a>
 
-RCQA 19
+- [RCQA 2019](http://ibm.biz/rcqa-aaai19)
 
 ### Organizers<a name="Organizers"></a>
