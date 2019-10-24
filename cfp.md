@@ -30,8 +30,10 @@ The submission site will be notified soon.
 
 ### Submission Format
 
-We welcome submissions describing work that is relevant to the workshop and/or the topics above, or proposals for discussion topics that will be of interest to at workshop.
+The workshop welcomes three kinds of paper submissions:
 
-Submissions are accepted in PDF format, following the AAAI-19 formatting guidelines. Submissions may be no longer than 8 pages in length, with the last page (page 8) devoted to only references and figures.
+- challenge papers (up to 2 pages long) that describe a new challenge in the workshop’s focus area;
+- short papers (up to 4 pages long) which focus on a single, specific contribution; and
+- full papers (up to 8 pages long);
 
-Submissions are not anonymous; please include author information on your submission, and de-anonymize any references to past work that the submissions builds upon.
+with unrestricted following pages for references only. Submission length should be commensurate to the contribution of the paper, following the rough guidelines above. Submissions must be formatted in the AAAI submission format. Submissions will be lightly reviewed for their relevance to the workshop topic, relevance to this year’s special focus, novelty of ideas, significance of results, and reusability of the contributions. The workshop is non-archival, and we welcome relevant submissions that have been published elsewhere in the very-recent past.
