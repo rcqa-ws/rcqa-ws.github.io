@@ -40,3 +40,11 @@ Please check out the full [Call for Papers](cfp.md).
 - [RCQA 2019](http://ibm.biz/rcqa-aaai19)
 
 ### Organizers<a name="Organizers"></a>
+
+- [Kartik Talamadupula](ktalamad.com), IBM Research
+- [Vered Shwartz](https://vered1986.github.io/), University of Washington / AI2
+- [Jay Pujara](https://www.jaypujara.org/), ISI / USC
+- [Rachel Rudinger](https://rudinger.github.io/), AI2 / UMD
+- [Mausam](http://www.cse.iitd.ernet.in/~mausam/), IIT Delhi
+- [Nanyun Peng](https://www.cs.jhu.edu/~npeng/), ISI / USC
+- [Pavan Kapanipathi](https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa), IBM Research
