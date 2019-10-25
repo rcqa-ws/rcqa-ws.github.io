@@ -41,7 +41,7 @@ Please check out the full [Call for Papers](cfp.md).
 
 ### Organizers<a name="Organizers"></a>
 
-- [Kartik Talamadupula](ktalamad.com), IBM Research
+- [Kartik Talamadupula](http://www.ktalamad.com), IBM Research
 - [Vered Shwartz](https://vered1986.github.io/), University of Washington / AI2
 - [Jay Pujara](https://www.jaypujara.org/), ISI / USC
 - [Rachel Rudinger](https://rudinger.github.io/), AI2 / UMD
