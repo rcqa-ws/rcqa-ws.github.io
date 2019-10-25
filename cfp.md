@@ -25,7 +25,9 @@ Contributions on other topics that are related and relevant to the workshop's th
 
 ### Submission Site<a name="submission-site"></a>
 
-The submission site will be notified soon. 
+<!-- The submission site will be notified soon.  -->
+
+The submission site can be [accessed here](https://easychair.org/conferences/?conf=rcqa20).
 
 
 ### Submission Format

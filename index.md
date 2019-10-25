@@ -27,8 +27,9 @@ We solicit submissions in the form of papers (short and long), posters, demos, p
 
 ### Submission Site<a name="submission-site"></a>
 
-The submission site will be notified soon. 
+<!-- The submission site will be notified soon.  -->
 
+The submission site can be [accessed here](https://easychair.org/conferences/?conf=rcqa20).
 
 ## Call for Papers<a name="cfp"></a>
 
