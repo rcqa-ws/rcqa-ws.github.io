@@ -21,7 +21,7 @@ description: Reasoning for Complex QA Workshop at AAAI 2020
 # List of links in the navigation bar
 navbar-links:
   Call for Papers: "/cfp"
-  Submission Site: ""
+  Submission Site: "https://easychair.org/conferences/?conf=rcqa20"
   Previous Editions:
       - RCQA 19: "http://ibm.biz/rcqa-aaai19"
   # About Me: "aboutme"
