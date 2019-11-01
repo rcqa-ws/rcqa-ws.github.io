@@ -39,3 +39,7 @@ The workshop welcomes three kinds of paper submissions:
 - full papers (up to 8 pages long);
 
 with unrestricted following pages for references only. Submission length should be commensurate to the contribution of the paper, following the rough guidelines above. Submissions must be formatted in the AAAI submission format. Submissions will be lightly reviewed for their relevance to the workshop topic, relevance to this year’s special focus, novelty of ideas, significance of results, and reusability of the contributions. The workshop is non-archival, and we welcome relevant submissions that have been published elsewhere in the very-recent past.
+
+## Text CFP
+
+If you wish to share the workshop's call for papers with your community or an email list that you think is relevant, please [use this version](cfp-rcqa20.txt).

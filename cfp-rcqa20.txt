@@ -1,0 +1,59 @@
+AAAI 2020 Reasoning for Complex Question Answering (RCQA) Workshop
+
+************************************************************
+Submissions due: November 15
+Workshop Website: http://rcqa-ws.github.io
+Submission Website: https://easychair.org/conferences/?conf=rcqa20
+************************************************************
+
+* apologies if you receive multiple copies *
+
+Call for Papers:
+
+Question Answering (QA) has become a crucial application problem in evaluating the progress of AI systems in the realm of natural language processing and understanding, and to measure the progress of machine intelligence in general. At AAAI-20 - in addition to the QA topics from the 2019 edition - the Reasoning for Complex Question Answering (RCQA) workshop series will feature a special focus on Commonsense Reasoning, and the overall umbrella area of Machine Common Sense (MCS). Commonsense Reasoning has long been a problem of interest to the AI community, and has spurred various efforts over the years that seek to standardize and encode commonsense knowledge for use by various AI systems. Machine Common Sense (MCS), taking after the name of a recent DARPA program, has once again become an area of focus. A large part of this is due to the realization that MCS may be the one of the biggest missing components in the transition of current day narrow AI systems into truly broader general AI systems.
+
+Making progress on the MCS problem unlocks many potential solution techniques for AI systems, and makes them truly useful in various real world domains in related fields such as NLP and Computer Vision. However, such progress is contingent on addressing key problems such as: how to obtain commonsense knowledge; how to encode it into usable models and structures that are suitably agnostic of the specific reasoning technique employed; the (automated) construction of large-scale and cross-domain knowledge bases that store such knowledge; and measuring the progress in the state-of-the-art models and showing an advantage from using commonsense knowledge on standardized datasets.
+
+Contributions are welcome in the following categories:
+
+Tasks: New kinds of CQA tasks from various real-world domains
+
+Datasets: Creation of CQA datasets and challenges that can be used to measure progress
+
+Metrics: Measures that indicate progress in CQA tasks
+
+Knowledge: Representation and utilization of external knowledge, as well as acquisition and learning of models from both experts and data
+
+Classification Schemes: To distinguish different kinds of questions, and the reasoning required to answer them
+
+Adoption of Existing AI Techniques: Adapting the state-of-the-art in various AI sub-fields to the CQA problem
+
+Transferability Across Domains: Evaluating the flexibility of proposed techniques and representations
+
+Contributions on other topics that are related and relevant to the workshop’s theme are also welcomed.
+
+Suggestions on other topics or programs to include in the workshop may be emailed to Kartik Talamadupula (krtalamad@us.ibm.com).
+
+
+Submission Guidelines:
+
+The workshop welcomes three kinds of paper submissions:
+
+- challenge papers (up to 2 pages long) that describe a new challenge in the workshop’s focus area;
+- short papers (up to 4 pages long) which focus on a single, specific contribution; and
+- full papers (up to 8 pages long);
+
+with unrestricted following pages for references only. Submission length should be commensurate to the contribution of the paper, following the rough guidelines above. Submissions must be formatted in the AAAI submission format. Submissions will be lightly reviewed for their relevance to the workshop topic, relevance to this year’s special focus, novelty of ideas, significance of results, and reusability of the contributions. The workshop is non-archival, and we welcome relevant submissions that have been published elsewhere in the very-recent past.
+
+Submission Website: https://easychair.org/conferences/?conf=rcqa20
+
+
+Organizers: 
+
+Kartik Talamadupula, IBM Research
+Vered Shwartz, University of Washington / AI2
+Jay Pujara, ISI / USC
+Rachel Rudinger, AI2 / UMD
+Mausam, IIT Delhi
+Nanyun Peng, ISI / USC
+Pavan Kapanipathi, IBM Research
