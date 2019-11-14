@@ -23,7 +23,7 @@ We solicit submissions in the form of papers (short and long), posters, demos, p
 
 ## Important Dates<a name="important-dates"></a>
 
-- Submission Deadline: **November 15, 2019**
+- Submission Deadline: **November 15, 2019**, AoE (Anywhere on Earth) *(UTC -12)*
 
 ### Submission Site<a name="submission-site"></a>
 
