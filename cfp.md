@@ -21,7 +21,8 @@ Contributions on other topics that are related and relevant to the workshop's th
 
 ## Important Dates<a name="important-dates"></a>
 
-- Submission Deadline: **November 15, 2019**, AoE (Anywhere on Earth) *(UTC -12)*
+- Submission Deadline: ~~November 15, 2019~~ <span style="color:red">November 19, 2019</span> 
+- Time: AoE (Anywhere on Earth) *(UTC -12)*
 
 ### Submission Site<a name="submission-site"></a>
 

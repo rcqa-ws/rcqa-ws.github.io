@@ -1,7 +1,9 @@
 AAAI 2020 Reasoning for Complex Question Answering (RCQA) Workshop
 
+****** DEADLINE EXTENDED ******
+
 ************************************************************
-Submissions due: November 15
+Submissions due: November 19
 Workshop Website: http://rcqa-ws.github.io
 Submission Website: https://easychair.org/conferences/?conf=rcqa20
 Venue: Hilton New York Midtown, New York NY
