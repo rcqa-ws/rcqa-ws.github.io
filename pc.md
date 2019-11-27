@@ -1,0 +1,36 @@
+---
+layout: page
+title: RCQA@AAAI
+subtitle: Reasoning for Complex QA Workshop 2020
+---
+
+
+# Workshop Organization
+
+## Organizers
+
+- [Kartik Talamadupula](http://www.ktalamad.com), IBM Research
+- [Vered Shwartz](https://vered1986.github.io/), University of Washington / AI2
+- [Jay Pujara](https://www.jaypujara.org/), ISI / USC
+- [Rachel Rudinger](https://rudinger.github.io/), AI2 / UMD
+- [Mausam](http://www.cse.iitd.ernet.in/~mausam/), IIT Delhi
+- [Nanyun Peng](https://www.cs.jhu.edu/~npeng/), ISI / USC
+- [Pavan Kapanipathi](https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa), IBM Research
+
+## Program Committee
+
+- Xingdi Yuan, Microsoft
+- Ashutosh Modi, Indian Institute of Technology Kanpur
+- Nicholas Mattei, Tulane University
+- Sheng	Zhang, Johns Hopkins University
+- Yi-Pei Chen, University of Massachusetts Amherst
+- Max Crouse, Northwestern University
+- I-Hung	Hsu,	University of Southern California
+- Noah	Weber,	Johns Hopkins University
+- Peifeng	Wang,	Sun Yat-sen University
+- Michael	Boratko,	UMass Amherst
+- Andrew	Drozdov,	University of Massachusetts Amherst
+- Kshitij	Fadnis,	IBM
+- Tongfei	Chen,	Johns Hopkins University
+- Maria	Chang,	IBM
+- Satyajeet	Raje,	IBM
