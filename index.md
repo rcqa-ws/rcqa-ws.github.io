@@ -50,3 +50,5 @@ Please check out the full [Call for Papers](cfp.md).
 - [Mausam](http://www.cse.iitd.ernet.in/~mausam/), IIT Delhi
 - [Nanyun Peng](https://www.cs.jhu.edu/~npeng/), ISI / USC
 - [Pavan Kapanipathi](https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa), IBM Research
+
+For a full list of the program committee, please visit the [organization page](pc.md). 
