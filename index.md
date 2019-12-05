@@ -24,9 +24,10 @@ We solicit submissions in the form of papers (short and long), posters, demos, p
 ## Important Dates<a name="important-dates"></a>
 
 - Submission Deadline: ~~November 15, 2019~~ November 19, 2019 
-- Time: AoE (Anywhere on Earth) *(UTC -12)*
-- Notification: December 4, 2019
+- ~Time: AoE (Anywhere on Earth) *(UTC -12)*~
+- Notification: ~December 4, 2019~
 - AAAI Early [Registration](https://aaai.org/Conferences/AAAI-20/registration/) Deadline: December 13, 2019
+*Please [write directly to AAAI](mailto:le@aaai.org) for visa invitation letters*
 
 ### Submission Site<a name="submission-site"></a>
 
