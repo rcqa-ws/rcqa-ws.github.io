@@ -23,7 +23,6 @@ subtitle: Reasoning for Complex QA Workshop 2020
 - Ashutosh Modi, Indian Institute of Technology Kanpur
 - Nicholas Mattei, Tulane University
 - Sheng	Zhang, Johns Hopkins University
-- Yi-Pei Chen, University of Massachusetts Amherst
 - Max Crouse, Northwestern University
 - I-Hung	Hsu,	University of Southern California
 - Noah	Weber,	Johns Hopkins University
