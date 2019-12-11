@@ -20,16 +20,16 @@ subtitle: Reasoning for Complex QA Workshop 2020
 ## Program Committee
 
 - Xingdi Yuan, Microsoft
-- Ashutosh Modi, Indian Institute of Technology Kanpur
+- [Ashutosh Modi]((https://www.cse.iitk.ac.in/users/ashutoshm/), IIT Kanpur
 - Nicholas Mattei, Tulane University
 - Sheng	Zhang, Johns Hopkins University
 - Max Crouse, Northwestern University
 - I-Hung	Hsu,	University of Southern California
 - Noah	Weber,	Johns Hopkins University
-- Peifeng	Wang,	Sun Yat-sen University
-- Michael	Boratko,	UMass Amherst
+- Peifeng	Wang,	University of Southern California
+- Michael	Boratko,	University of Massachusetts Amherst
 - Andrew	Drozdov,	University of Massachusetts Amherst
-- Kshitij	Fadnis,	IBM
+- Kshitij	Fadnis,	IBM Research
 - Tongfei	Chen,	Johns Hopkins University
-- Maria	Chang,	IBM
+- Maria	Chang,	IBM Research
 - Satyajeet	Raje,	IBM
