@@ -20,7 +20,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 ## Program Committee
 
 - Xingdi Yuan, Microsoft
-- [Ashutosh Modi]((https://www.cse.iitk.ac.in/users/ashutoshm/), IIT Kanpur
+- [Ashutosh Modi](https://www.cse.iitk.ac.in/users/ashutoshm/), IIT Kanpur
 - Nicholas Mattei, Tulane University
 - Sheng	Zhang, Johns Hopkins University
 - Max Crouse, Northwestern University
