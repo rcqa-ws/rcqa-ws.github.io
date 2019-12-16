@@ -20,6 +20,7 @@ description: Reasoning for Complex QA Workshop at AAAI 2020
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "/index"
   Accepted Papers: "/schedule"
   Schedule: "/schedule"
   Organization: "/pc"
