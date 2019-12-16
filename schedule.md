@@ -13,7 +13,6 @@ Coming Soon
 
 | **Title**                                                                                                       | **Authors**                                                              |
 |-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-|  Amharic question answering for factoid and list questions using machine learning approach                  | *Medhanit Getachew*                                                    |
 |  Generating Helpful Responses for Intelligent Tech Support                                                  | *Wenhao Yu, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng and Meng Jiang* |
 |  Giving Commands to a Self\-driving Car: A Multimodal Reasoner for Visual Grounding                         | *Thierry Deruyttere, Guillem Collell and Marie\-Francine Moens*        |
 |  Humor Detection based on Paragraph Decomposition and BERT Fine\-Tuning                                     | *Hao Yang, Yao Deng, Minghan Wang, Ying Qin and Shiliang Sun*          |
