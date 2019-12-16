@@ -8,6 +8,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 | --------|
 | [About](#about) | 
 | [Important Dates](#important-dates) |
+| [Accepted Papers](/schedule) |
 | [Submission Site](#submission-site) |
 | [Call for Papers](#cfp) |
 | [Organizers](#organizers) |
@@ -26,9 +27,9 @@ We solicit submissions in the form of papers (short and long), posters, demos, p
 - ~~Submission Deadline: November 19, 2019~~ 
 - ~~Time: AoE (Anywhere on Earth) *(UTC -12)*~~
 - ~~Notification: ~December 4, 2019~~
-- AAAI Early [Registration](https://aaai.org/Conferences/AAAI-20/registration/) Deadline: December 13, 2019<br>
+- ~~AAAI Early [Registration](https://aaai.org/Conferences/AAAI-20/registration/) Deadline: December 13, 2019~~<br>
 *Please [write directly to AAAI](mailto:le@aaai.org) for visa invitation letters*
-- Workshop Date: February 7 (or) 8, 2020 (one day only)
+- Workshop Date: February 8, 2020
 
 ### Submission Site<a name="submission-site"></a>
 
