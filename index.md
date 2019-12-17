@@ -29,6 +29,7 @@ We solicit submissions in the form of papers (short and long), posters, demos, p
 - ~~Notification: ~December 4, 2019~~
 - ~~AAAI Early [Registration](https://aaai.org/Conferences/AAAI-20/registration/) Deadline: December 13, 2019~~<br>
 *Please [write directly to AAAI](mailto:le@aaai.org) for visa invitation letters*
+- Camera Ready Copy (CRC) Due: January 13, 2020 *(UTC -12)*
 - Workshop Date: February 8, 2020
 
 ### Submission Site<a name="submission-site"></a>
