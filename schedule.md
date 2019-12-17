@@ -15,6 +15,8 @@ We are currently working actively on building an exciting invited speaker slate,
 
 # Accepted Papers
 
+The following is a list of papers accepted to the workshop. Copies of the papers and an electronic proceedings will be made available after the camera ready deadline in January 2020. In the meantime, please feel free to reach out directly to the authors (where listed) to obtain a copy of their paper.
+
 | **Title**                                                                                                       | **Authors**                                                              |
 |-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 |  Generating Helpful Responses for Intelligent Tech Support                                                  | *Wenhao Yu, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng and Meng Jiang* |
