@@ -11,6 +11,7 @@ We are currently working actively on building an exciting invited speaker slate,
 
 - [Ray Mooney](https://www.cs.utexas.edu/~mooney/), UT Austin
 - [Nasrin Mostafazadeh](https://www.cs.rochester.edu/~nasrinm/), Elemental Cognition
+- [Sameer Singh](http://sameersingh.github.io/), UC Irvine
 
 
 # Accepted Papers
