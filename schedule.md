@@ -5,9 +5,13 @@ subtitle: Reasoning for Complex QA Workshop 2020
 ---
 
 
-# Workshop Program
+# Invited Speakers
 
-Coming Soon
+We are currently working actively on building an exciting invited speaker slate, with the following speakers confirmed. Please watch this space for updates! 
+
+- [Ray Mooney](https://www.cs.utexas.edu/~mooney/), UT Austin
+- [Nasrin Mostafazadeh](https://www.cs.rochester.edu/~nasrinm/), Elemental Cognition
+
 
 # Accepted Papers
 
@@ -22,3 +26,7 @@ Coming Soon
 |  SymbolNet: A Neural Symbolic Approach with Numerically\-aware Graph for Discrete Reasoning Over Paragraphs | *Xiangru Tang*                                                         |
 |  Unsupervised Question Decomposition for Question Answering                                                 | *Authors Anonymous on Request*                                         |
 |  Why Do Masked Neural Language Models Still Need Commonsense Knowledge?                                     | *Sunjae Kwon, Cheongwoong Kang, Jiyeon Han and Jaesik Choi*            |
+
+# Workshop Program
+
+Coming Soon

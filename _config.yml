@@ -24,6 +24,7 @@ navbar-links:
   Schedule: 
       - Program: "/schedule"
       - Accepted Papers: "/schedule"
+      - Invited Speakers: "/schedule"
   # Schedule: "/schedule"
   PC: "/pc"
   # Submission Site: "https://easychair.org/conferences/?conf=rcqa20"
