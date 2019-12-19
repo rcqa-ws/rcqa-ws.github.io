@@ -35,4 +35,4 @@ The following is a list of papers accepted to the workshop. Copies of the papers
 Coming Soon
 
 
-<sup>+</sup> <sub><sup>To maintain compliance with the [ACL 2020 anonymity restrictions](https://acl2020.org/calls/papers/#important-anonymity-period), these authors have requested that their papers be posted without identifying author information.</sup></sub> 
+<sup>+</sup> <sub><sup>To maintain compliance with the [ACL 2020 anonymity restrictions](https://acl2020.org/calls/papers/#important-anonymity-period), these authors have requested that their papers be posted without identifying author information. We will make anonymized versions of these papers available online after the camera-ready deadline.</sup></sub> 
