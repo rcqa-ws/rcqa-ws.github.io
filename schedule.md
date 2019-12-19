@@ -28,7 +28,7 @@ The following is a list of papers accepted to the workshop. Copies of the papers
 |  Supervised Understanding of Word Embeddings                                                                | *Halid Ziya Yerebakan, Parmeet Bhatia and Yoshihisa Shinagawa*         |
 |  SymbolNet: A Neural Symbolic Approach with Numerically\-aware Graph for Discrete Reasoning Over Paragraphs | *Xiangru Tang*                                                         |
 |  Unsupervised Question Decomposition for Question Answering                                                 | *Authors Anonymous on Request*                                         |
-|  Why Do Masked Neural Language Models Still Need Commonsense Knowledge?                                     | *Authors Masked on Request*            |
+|  Why Do Masked Neural Language Models Still Need Commonsense Knowledge?                                     | *Authors Masked on Request<sup>:zap:</sup>*            |
 
 # Workshop Program
 
