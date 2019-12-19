@@ -27,9 +27,12 @@ The following is a list of papers accepted to the workshop. Copies of the papers
 |  SMAC: An Interpretable Reasoning Network for Visual Question Answering                                     | *Minghan Wang, Hao Yang, Shiliang Sun, Yao Deng and Ying Qin*          |
 |  Supervised Understanding of Word Embeddings                                                                | *Halid Ziya Yerebakan, Parmeet Bhatia and Yoshihisa Shinagawa*         |
 |  SymbolNet: A Neural Symbolic Approach with Numerically\-aware Graph for Discrete Reasoning Over Paragraphs | *Xiangru Tang*                                                         |
-|  Unsupervised Question Decomposition for Question Answering                                                 | *Authors Anonymous on Request*                                         |
-|  Why Do Masked Neural Language Models Still Need Commonsense Knowledge?                                     | *Authors Masked on Request<sup>:zap:</sup>*            |
+|  Unsupervised Question Decomposition for Question Answering                                                 | *Authors Anonymous on Request*<sup>+</sup>                                          |
+|  Why Do Masked Neural Language Models Still Need Commonsense Knowledge?                                     | *Authors Masked on Request*<sup>+</sup>           |
 
 # Workshop Program
 
 Coming Soon
+
+
+<sup>+</sup> <sub><sup>To maintain compliance with the [ACL 2020 anonymity restrictions](https://acl2020.org/calls/papers/#important-anonymity-period), these authors have requested that their papers be posted without identifying author information.</sup></sub> 
