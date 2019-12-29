@@ -10,6 +10,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 We are currently working actively on building an exciting invited speaker slate, with the following speakers confirmed. Please watch this space for updates! 
 - [Ray Mooney](https://www.cs.utexas.edu/~mooney/), UT Austin
 - [Nasrin Mostafazadeh](https://www.cs.rochester.edu/~nasrinm/), Elemental Cognition
+- [Dan Roth](https://www.cis.upenn.edu/~danroth/), UPenn
 - [Sameer Singh](http://sameersingh.github.io/), UC Irvine
 - [Robyn Speer](https://twitter.com/r_speer), Luminoso
 - [Bishan Yang](http://www.cs.cmu.edu/~bishan/), LAER AI
