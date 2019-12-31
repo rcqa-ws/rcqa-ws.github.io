@@ -1,0 +1,43 @@
+# You can define your custom social network links here.
+# Use the same key you added in _config.yml -> social-network-links.
+# In addition to that you need to specify the following properties:
+#   name: Specify a user-friendly name that will be used as a link title
+#   baseURL: Define a base URL which will be combined with the value of
+#            site.social-network-links.<key>
+#   icon: Specify a valid fontawesome icon class
+
+kartik:
+  name: "Kartik Talamadupula"
+  url: "http://www.ktalamad.com"
+  affiliation: "IBM Research"
+  img: "kartik.jpg"
+vered:
+  name: "Vered Shwartz"
+  url: "https://vered1986.github.io/"
+  affiliation: "University of Washington / AI2"
+  img: "vered.jpg"
+jay:
+  name: "Jay Pujara"
+  url: "https://www.jaypujara.org/"
+  affiliation: "ISI / USC"
+  img: "jay.jpg"
+rachel:
+  name: "Rachel Rudinger"
+  url: "https://rudinger.github.io/"
+  affiliation: "AI2 / UMD"
+  img: "rachel.jpg"
+mausam:
+  name: "Mausam"
+  url: "http://www.cse.iitd.ernet.in/~mausam/"
+  affiliation: "IIT Delhi"
+  img: "mausam.jpg"
+nanyun: 
+  name: "Nanyun Peng"
+  url: "https://www.cs.jhu.edu/~npeng/"
+  affiliation: "ISI / USC"
+  img: "nanyun.jpg"
+pavan:
+  name: "Pavan Kapanipathi"
+  url: "https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa"
+  affiliation: "IBM Research"
+  img: "pavan.jpg"
