@@ -49,8 +49,6 @@ Please check out the full [Call for Papers](cfp.md).
 
 ### Organizers<a name="Organizers"></a>
 
-<!-- {% for p in site.data.organizers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %} -->
-
 - [Kartik Talamadupula](http://www.ktalamad.com), IBM Research
 - [Vered Shwartz](https://vered1986.github.io/), University of Washington / AI2
 - [Jay Pujara](https://www.jaypujara.org/), ISI / USC
