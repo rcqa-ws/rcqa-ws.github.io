@@ -12,6 +12,8 @@ This is some text.
 
 This is some more text over here. 
 
+# A separator section
+
 ## Invited Speakers
 
 {% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
