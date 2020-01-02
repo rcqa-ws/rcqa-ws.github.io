@@ -2,7 +2,7 @@ ray:
   name: "Ray Mooney"
   url: "https://www.cs.utexas.edu/~mooney/"
   affiliation: "UT Austin"
-  img: ray.jpg
+  img: "ray.jpg"
   title: "TBA" 
   abstract: "TBA"
   bio: "TBA"
@@ -10,7 +10,7 @@ nasrin:
   name: "Nasrin Mostafazadeh"
   url: "https://www.cs.rochester.edu/~nasrinm/"
   affiliation: "Elemental Cognition"
-  img: nasrin.jpg
+  img: "nasrin.jpg"
   title: "TBA"
   abstract: "TBA"
   bio: "TBA"
@@ -18,7 +18,7 @@ dan:
   name: "Dan Roth"
   url: https://www.cis.upenn.edu/~danroth/
   affiliation: "UPenn"
-  img: dan.jpg
+  img: "dan.jpg"
   title: "TBA"
   abstract: "TBA"
   bio: "TBA"
@@ -26,7 +26,7 @@ sameer:
   name: "Sameer Singh"
   url: "http://sameersingh.github.io/"
   affiliation: "UC Irvine"
-  img: sameer.jpg
+  img: "sameer.jpg"
   title: "TBA"
   abstract: "TBA"
   bio: "TBA"
@@ -34,7 +34,7 @@ robyn:
   name: "Robyn Speer"
   url: "https://twitter.com/r_speer"
   affiliation: "Luminoso"
-  img: robyn.jpg
+  img: "robyn.jpg"
   title: "TBA"
   abstract: "TBA"
   bio: "TBA"
@@ -42,7 +42,7 @@ bishan:
   name: "Bishan Yang"
   url: "http://www.cs.cmu.edu/~bishan/"
   affiliation: "LAER AI"
-  img: bishan.jpg
+  img: "bishan.jpg"
   title: "TBA" 
   abstract: "TBA"
   bio: "TBA"
