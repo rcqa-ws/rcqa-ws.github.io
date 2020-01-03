@@ -53,6 +53,9 @@ Please check out the full [Call for Papers](cfp.md).
 
 </div>
 </div>
+
+For a full list of the program committee, please visit the [organization page](pc.md). 
+
 <!-- 
 - [Kartik Talamadupula](http://www.ktalamad.com), IBM Research
 - [Vered Shwartz](https://vered1986.github.io/), University of Washington / AI2
@@ -61,8 +64,6 @@ Please check out the full [Call for Papers](cfp.md).
 - [Mausam](http://www.cse.iitd.ernet.in/~mausam/), IIT Delhi
 - [Nanyun Peng](https://www.cs.jhu.edu/~npeng/), ISI / USC
 - [Pavan Kapanipathi](https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa), IBM Research -->
-
-For a full list of the program committee, please visit the [organization page](pc.md). 
 
 ## Related Workshops<a name="past-workshops"></a>
 
