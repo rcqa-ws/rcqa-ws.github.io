@@ -14,7 +14,7 @@ kartik:
 vered:
   name: "Vered Shwartz"
   url: "https://vered1986.github.io/"
-  affiliation: "University of Washington / AI2"
+  affiliation: "Univ of Washington / AI2"
   img: "vered.jpg"
 jay:
   name: "Jay Pujara"
@@ -24,7 +24,7 @@ jay:
 rachel:
   name: "Rachel Rudinger"
   url: "https://rudinger.github.io/"
-  affiliation: "AI2 / UMD"
+  affiliation: "AI2 / Univ of Maryland"
   img: "rachel.jpg"
 mausam:
   name: "Mausam"

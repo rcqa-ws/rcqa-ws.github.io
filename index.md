@@ -4,15 +4,6 @@ title: RCQA@AAAI
 subtitle: Reasoning for Complex QA Workshop 2020
 ---
 
-| Contents |
-| --------|
-| [About](#about) | 
-| [Important Dates](#important-dates) |
-| [Accepted Papers](/schedule) |
-| [Submission Site](#submission-site) |
-| [Call for Papers](#cfp) |
-| [Organizers](#organizers) |
-
 
 ## About<a name="about"></a>
 
@@ -36,25 +27,44 @@ We solicit submissions in the form of papers (short and long), posters, demos, p
 
 <!-- The submission site will be notified soon.  -->
 
-The submission site can be [accessed here](https://easychair.org/conferences/?conf=rcqa20).
+If you need to submit your camera-ready copy (CRC), the submission site can be [accessed here](https://easychair.org/conferences/?conf=rcqa20).
 
-## Call for Papers<a name="cfp"></a>
+<!-- ## Call for Papers<a name="cfp"></a>
 
 Please check out the full [Call for Papers](cfp.md).
+ -->
 
+## Invited Speakers<a name="speakers"></a>
 
-### Related Workshops<a name="past-workshops"></a>
+<div class="container">
+  <div class="row">
 
-- [RCQA 2019](http://ibm.biz/rcqa-aaai19)
+{% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
 
-### Organizers<a name="Organizers"></a>
+</div>
+</div>
 
+## Organizers<a name="organizers"></a>
+
+<div class="container">
+  <div class="row">
+
+{% for p in site.data.organizers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
+
+</div>
+</div>
+<!-- 
 - [Kartik Talamadupula](http://www.ktalamad.com), IBM Research
 - [Vered Shwartz](https://vered1986.github.io/), University of Washington / AI2
 - [Jay Pujara](https://www.jaypujara.org/), ISI / USC
 - [Rachel Rudinger](https://rudinger.github.io/), AI2 / UMD
 - [Mausam](http://www.cse.iitd.ernet.in/~mausam/), IIT Delhi
 - [Nanyun Peng](https://www.cs.jhu.edu/~npeng/), ISI / USC
-- [Pavan Kapanipathi](https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa), IBM Research
+- [Pavan Kapanipathi](https://researcher.watson.ibm.com/researcher/view.php?person=us-kapanipa), IBM Research -->
 
 For a full list of the program committee, please visit the [organization page](pc.md). 
+
+## Related Workshops<a name="past-workshops"></a>
+
+- [RCQA 2019](http://ibm.biz/rcqa-aaai19)
+

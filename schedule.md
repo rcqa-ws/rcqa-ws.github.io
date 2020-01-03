@@ -5,18 +5,27 @@ subtitle: Reasoning for Complex QA Workshop 2020
 ---
 
 
-# Invited Speakers
+# Invited Speakers<a name="speakers"></a>
 
 We are currently working actively on building an exciting invited speaker slate, with the following speakers confirmed. Please watch this space for updates! 
-- [Ray Mooney](https://www.cs.utexas.edu/~mooney/), UT Austin
+
+<div class="container">
+  <div class="row">
+
+{% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
+
+</div>
+</div>
+
+<!-- - [Ray Mooney](https://www.cs.utexas.edu/~mooney/), UT Austin
 - [Nasrin Mostafazadeh](https://www.cs.rochester.edu/~nasrinm/), Elemental Cognition
 - [Dan Roth](https://www.cis.upenn.edu/~danroth/), UPenn
 - [Sameer Singh](http://sameersingh.github.io/), UC Irvine
 - [Robyn Speer](https://twitter.com/r_speer), Luminoso
 - [Bishan Yang](http://www.cs.cmu.edu/~bishan/), LAER AI
+ -->
 
-
-# Accepted Papers
+# Accepted Papers<a name="accepted-papers"></a>
 
 The following is a list of papers accepted to the workshop. Copies of the papers and an electronic proceedings will be made available after the camera ready deadline in January 2020. In the meantime, please feel free to reach out directly to the authors (where listed) to obtain a copy of their paper.
 
@@ -32,7 +41,7 @@ The following is a list of papers accepted to the workshop. Copies of the papers
 |  Unsupervised Question Decomposition for Question Answering                                                 | *Authors Anonymous on Request*<sup>+</sup>                                          |
 |  Why Do Masked Neural Language Models Still Need Commonsense Knowledge?                                     | *Authors Masked on Request*<sup>+</sup>           |
 
-# Workshop Program
+# Workshop Program<a name="program"></a>
 
 Coming Soon
 
