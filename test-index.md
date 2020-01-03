@@ -10,9 +10,7 @@ This is some text.
 
 {% for p in site.data.organizers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
 
-This is some more text over here. 
-
-# A separator section
+<!-- # A separator section -->
 
 ## Invited Speakers
 
