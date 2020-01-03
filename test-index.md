@@ -8,11 +8,14 @@ This is some text.
 
 ## Organizers
 
+<div class="container">
+  <div class="row">
+
 {% for p in site.data.organizers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
 
-<!-- # A separator section -->
+</div>
+</div>
 
-<br /><br /><br /><br />
 
 ## Invited Speakers
 
