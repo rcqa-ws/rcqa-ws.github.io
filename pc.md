@@ -19,6 +19,8 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 ## Program Committee
 
+We sincerely thank the program committee for their time and effort in helping put together our stellar technical paper program this year!
+
 - Xingdi Yuan, Microsoft
 - [Ashutosh Modi](https://www.cse.iitk.ac.in/users/ashutoshm/), IIT Kanpur
 - Nicholas Mattei, Tulane University
