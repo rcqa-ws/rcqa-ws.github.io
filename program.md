@@ -7,7 +7,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 # Workshop Program
 
-The following is a tentative schedule for the workshop. The workshop will be held on February 8, 2020 (Saturday) as part of the [AAAI 2020 program](https://aaai.org/Conferences/AAAI-20/ws20/).
+The following is a tentative schedule for the workshop -- we ask for your patience as we update the schedule to take into account conflicts and other constraints. The workshop will be held on February 8, 2020 (Saturday) as part of the [AAAI 2020 program](https://aaai.org/Conferences/AAAI-20/ws20/).
 
 | **Time** 	| 	**Event** |
 | ------------------ | ------------------ |
@@ -27,6 +27,8 @@ The following is a tentative schedule for the workshop. The workshop will be hel
 | 1650-1700	| 	Workshop Close |
 
 # Invited Speakers<a href="speakers"></a>
+
+Invited talks will be 30 minutes each (25+5), and presented during their specific slots in the program. 
 
 <div class="container">
   <div class="row">
