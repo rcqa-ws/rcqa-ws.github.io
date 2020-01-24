@@ -26,7 +26,7 @@ The following is a tentative schedule for the workshop. The workshop will be hel
 | 1620-1650	| 	Invited Talk 6: Dan Roth |
 | 1650-1700	| 	Workshop Close |
 
-# Invited Speakers<a href="program-invited-speakers"></a>
+# Invited Speakers<a href="speakers"></a>
 
 <div class="container">
   <div class="row">

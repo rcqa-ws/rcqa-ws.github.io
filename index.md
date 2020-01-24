@@ -11,7 +11,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 Making progress on the MCS problem unlocks many potential solution techniques for AI systems, and makes them truly useful in various real world domains in related fields such as NLP and Computer Vision. However, such progress is contingent on addressing key problems such as: how to obtain commonsense knowledge; how to encode it into usable models and structures that are suitably agnostic of the specific reasoning technique employed; the (automated) construction of large-scale and cross-domain knowledge bases that store such knowledge; and measuring the progress in the state-of-the-art models and showing an advantage from using commonsense knowledge on standardized datasets. -->
 
-The RCQA 2020 workshop will be under the auspices of AAAI 2020 on February 8, 2020 (Saturday) at the Hilton Midtown in New York, NY. Please use the links above to find information about the workshop. Please contact [Kartik Talamadupula](mailto:krtalamad@us.ibm.com) for questions about the workshop. The workshop program can be [found here](program.md).
+The RCQA 2020 [workshop](https://aaai.org/Conferences/AAAI-20/ws20/) will be held under the auspices of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/#) on February 8, 2020 (Saturday) at the Hilton Midtown in New York, NY. Please use the links above to find information about the workshop. Please contact [Kartik Talamadupula](mailto:krtalamad@us.ibm.com) for questions about the workshop. The workshop program can be [found here](program.md).
 
 ## Important Dates<a name="important-dates"></a>
 
