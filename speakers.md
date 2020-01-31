@@ -6,6 +6,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 # Invited Speakers
 
+The following is the invited talks program for RCQA-20: 
 
 <!-- <div class="container">
   <div class="column">
