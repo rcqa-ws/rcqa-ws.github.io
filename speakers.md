@@ -10,18 +10,18 @@ subtitle: Reasoning for Complex QA Workshop 2020
 <div class="container">
   <div class="column">
 
-{% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
+{% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include speakerinfo.html p=p %} {% endfor %}
 
 </div>
 </div>
 
-{% for p in site.data.speakers %}
+<!-- {% for p in site.data.speakers %}
 
 {% capture id %}{{ p[0] }}{% endcapture %}
 
 - {{% include p[1].name %}}
 
-{% endfor %}
+{% endfor %} -->
 
 
 <!-- ## Ray Mooney
