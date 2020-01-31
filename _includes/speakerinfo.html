@@ -22,18 +22,16 @@
   </td>
 </div> -->
 
-<h2><a href="{{ include.p[1].url }}">{{ include.p[1].name }}</a></h2>
-
 <img
       src="{{ site.baseurl }}/img/{{ include.p[1].img }}"
       alt="{{ include.p[1].name }}"
       class="img-circle"
-      style="width: 50px;margin: 15px"
-    />
+      style="width: 75px;margin: 0px"
+    /><h2><a href="{{ include.p[1].url }}" target="_blank">{{ include.p[1].name }}</a></h2>
 
-<b>Title</b>: {{ include.p[1].title }}<br />
-<b>Abstract</b>: {{ include.p[1].abstract }} <br />
-<b>Bio</b>: {{ include.p[1].bio }}
+<b>Title</b>: <i>{{ include.p[1].title }}</i><br /><br />
+<b>Abstract</b>: {{ include.p[1].abstract }} <br /><br />
+<b>Bio</b>: <i>{{ include.p[1].bio }}</i>
 
 
 
