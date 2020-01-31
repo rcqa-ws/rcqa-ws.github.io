@@ -1,5 +1,6 @@
 ray:
   name: "Ray Mooney"
+  shortname: "ray"
   url: "https://www.cs.utexas.edu/~mooney/"
   affiliation: "UT Austin"
   img: "ray.jpg"
@@ -9,6 +10,7 @@ ray:
   bio: "Raymond J. Mooney is a Professor in the Department of Computer Science at the University of Texas at Austin. He received his Ph.D. in 1988 from the University of Illinois at Urbana/Champaign. He is an author of over 170 published research papers, primarily in the areas of machine learning and natural language processing. He was the President of the International Machine Learning Society from 2008-2011, program co-chair for AAAI 2006, general chair for EMNLP 2005, and co-chair for ICML 1990. He is a Fellow of AAAI, ACM, and ACL and the recipient of the Classic Paper award from AAAI-19 and best paper awards from AAAI-96, KDD-04, ICML-05 and ACL-07."
 nasrin:
   name: "Nasrin Mostafazadeh"
+  shortname: "nasrin"
   url: "https://www.cs.rochester.edu/~nasrinm/"
   affiliation: "Elemental Cognition"
   img: "nasrin.jpg"
@@ -18,6 +20,7 @@ nasrin:
   bio: "TBA"
 dan:
   name: "Dan Roth"
+  shortname: "dan"
   url: "https://www.cis.upenn.edu/~danroth/"
   affiliation: "UPenn"
   img: "dan.jpg"
@@ -27,6 +30,7 @@ dan:
   bio: "TBA"
 sameer:
   name: "Sameer Singh"
+  shortname: "sameer"
   url: "http://sameersingh.github.io/"
   affiliation: "UC Irvine"
   img: "sameer.jpg"
@@ -38,6 +42,7 @@ In this talk, I will introduce a number of approaches we are investigating to pe
   bio: "Dr. Sameer Singh is an Assistant Professor of Computer Science at the University of California, Irvine (UCI). He is working primarily on robustness and interpretability of machine learning algorithms, along with models that reason with text and structure for natural language processing. Sameer was a postdoctoral researcher at the University of Washington and received his PhD from the University of Massachusetts, Amherst, during which he also worked at Microsoft Research, Google Research, and Yahoo! Labs. His group has received funding from Allen Institute for AI, NSF, DARPA, Adobe Research, and FICO."
 robyn:
   name: "Robyn Speer"
+  shortname: "robyn"
   url: "https://twitter.com/r_speer"
   affiliation: "Luminoso"
   img: "robyn.jpg"
@@ -47,6 +52,7 @@ robyn:
   bio: "Robyn Speer is Chief Scientist at Luminoso and lead maintainer of ConceptNet."
 bishan:
   name: "Bishan Yang"
+  shortname: "bishan"
   url: "http://www.cs.cmu.edu/~bishan/"
   affiliation: "LAER AI"
   img: "bishan.jpg"

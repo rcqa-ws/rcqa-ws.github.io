@@ -12,18 +12,18 @@ The following is a tentative schedule for the workshop -- we ask for your patien
 | **Time** 	| 	**Event** |
 | ------------------ | ------------------ |
 | 0850-0900 | 	Workshop Welcome |
-| 0900-0930	| 	Invited Talk 1: Ray Mooney |
-| 0930-1040	| 	Spotlight Talks (7x10 mins each) |
+| 0900-0930	| 	Invited Talk 1: [Ray Mooney](speakers.md/#ray) |
+| 0930-1040	| 	[Spotlight Talks](#spotlights) (7x10 mins each) |
 | 1040-1110	|	Posters 1 (30 mins, overlaps with coffee break) |
-| 1110-1140	| 	Invited Talk 2: Nasrin Mostafazadeh |
+| 1110-1140	| 	Invited Talk 2: [Nasrin Mostafazadeh](speakers.md/#nasrin) |
 | 1140-1200	|	Oral Paper 1: Why Do Masked Neural Language Models Still Need Commonsense Knowledge? |
-| 1200-1230	|	Invited Talk 3: Bishan Yang |
+| 1200-1230	|	Invited Talk 3: [Bishan Yang](speakers.md/#bishan) |
 | 1230-1400	| 	Lunch (90 mins) |
-| 1400-1430	| 	Invited Talk 4: Robyn Speer |
-| 1430-1500	| 	Invited Talk 5: Sameer Singh |
+| 1400-1430	| 	Invited Talk 4: [Robyn Speer](speakers.md/#robyn) |
+| 1430-1500	| 	Invited Talk 5: [Sameer Singh](speakers.md/#sameer) |
 | 1500-1600	|	Open Poster Session, Posters 2 (60 mins, includes coffee break 1530-1600) |
 | 1600-1620	|	Oral Paper 2: Unsupervised Question Decomposition for Question Answering |
-| 1620-1650	| 	Invited Talk 6: Dan Roth |
+| 1620-1650	| 	Invited Talk 6: [Dan Roth](speakers.md/#dan) |
 | 1650-1700	| 	Workshop Close |
 
 # Invited Speakers<a href="speakers"></a>
@@ -38,14 +38,14 @@ Invited talks will be 30 minutes each (25+5), and presented during their specifi
 </div>
 </div>
 
-# Oral Presentations
+# Oral Presentations<a href="orals"></a>
 
 The oral presentations will be 20 minutes each (15+5) and presented in the following order, in their specific slots in the program:
 
 - Why Do Masked Neural Language Models Still Need Commonsense Knowledge?
 - Unsupervised Question Decomposition for Question Answering
 
-# Spotlight Presentations
+# Spotlight Presentations<a href="spotlights"></a>
 
 The spotlight presentations will be 10 minutes each (8+2) and will all be presented in the first session of the workshop. This is to enable maximum discussion time during both poster sessions. The spotlights will be presented in the following order:
 
