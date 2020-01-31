@@ -7,13 +7,13 @@ subtitle: Reasoning for Complex QA Workshop 2020
 # Invited Speakers
 
 
-<div class="container">
+<!-- <div class="container">
   <div class="column">
-
+ -->
 {% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include speakerinfo.html p=p %} {% endfor %}
 
-</div>
-</div>
+<!-- </div>
+</div> -->
 
 <!-- {% for p in site.data.speakers %}
 

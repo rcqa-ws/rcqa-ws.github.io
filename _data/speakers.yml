@@ -27,9 +27,11 @@ sameer:
   url: "http://sameersingh.github.io/"
   affiliation: "UC Irvine"
   img: "sameer.jpg"
-  title: "TBA"
-  abstract: "TBA"
-  bio: "TBA"
+  title: "Evaluating and Testing Question Answering Capabilities"
+  abstract: "Current evaluation of question answering primarily consists of measuring the accuracy of identifying the answer of a question from a set of choices (explicitly multi-choice or all possible spans) on held-out QA pairs. Since the held-out pairs are often gathered using similar annotation process as the training data, they include the same biases that act as shortcuts for reasoning, allowing machine learning models to achieve accurate results, without requiring actual comprehension. Thus accuracy is a poor proxy for generalization for reading comprehension tasks.
+
+In this talk, I will introduce a number of approaches we are investigating to perform a more thorough evaluation of QA systems. I will first describe automated techniques for perturbing instances in the dataset that identify loopholes and shortcuts in the question-answering process, including semantic adversaries and universal triggers. I will then describe recent work in creating comprehensive and thorough tests and evaluation benchmarks for question answering, that aim to evaluate reading comprehension capabilities of question answering systems."
+  bio: "Dr. Sameer Singh is an Assistant Professor of Computer Science at the University of California, Irvine (UCI). He is working primarily on robustness and interpretability of machine learning algorithms, along with models that reason with text and structure for natural language processing. Sameer was a postdoctoral researcher at the University of Washington and received his PhD from the University of Massachusetts, Amherst, during which he also worked at Microsoft Research, Google Research, and Yahoo! Labs. His group has received funding from Allen Institute for AI, NSF, DARPA, Adobe Research, and FICO."
 robyn:
   name: "Robyn Speer"
   url: "https://twitter.com/r_speer"
