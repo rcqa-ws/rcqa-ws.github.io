@@ -13,7 +13,9 @@ Making progress on the MCS problem unlocks many potential solution techniques fo
 
 The RCQA 2020 [workshop](https://aaai.org/Conferences/AAAI-20/ws20/) will be held under the auspices of [AAAI 2020](https://aaai.org/Conferences/AAAI-20/#) on February 8, 2020 (Saturday) at the Hilton Midtown in New York, NY. Please use the links above to find information about the workshop. Please contact [Kartik Talamadupula](mailto:krtalamad@us.ibm.com) for questions about the workshop. The workshop program can be [found here](program.md).
 
-## Important Dates<a name="important-dates"></a>
+- Workshop Date: February 8, 2020 (Saturday)
+
+<!-- ## Important Dates<a name="important-dates"></a>
 
 - ~~Submission Deadline: November 19, 2019~~ 
 - ~~Time: AoE (Anywhere on Earth) *(UTC -12)*~~
@@ -21,7 +23,7 @@ The RCQA 2020 [workshop](https://aaai.org/Conferences/AAAI-20/ws20/) will be hel
 - ~~AAAI Early [Registration](https://aaai.org/Conferences/AAAI-20/registration/) Deadline: December 13, 2019~~<br>
 *Please [write directly to AAAI](mailto:le@aaai.org) for visa invitation letters*
 - ~~Camera Ready Copy (CRC) Due: January 13, 2020 *(UTC -12)*~~
-- Workshop Date: February 8, 2020 (Saturday)
+- Workshop Date: February 8, 2020 (Saturday) -->
 
 <!-- ### Submission Site<a name="submission-site"></a> -->
 
