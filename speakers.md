@@ -19,7 +19,7 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 {% capture id %}{{ p[0] }}{% endcapture %}
 
-## {{% include p[1].name %}}
+- {{% include p[1].name %}}
 
 {% endfor %}
 
