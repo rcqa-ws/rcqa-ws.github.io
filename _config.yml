@@ -22,10 +22,11 @@ description: Reasoning for Complex QA Workshop at AAAI 2020
 navbar-links:
   Home: "/index"
   Open Session: "/schedule#open-poster-session"
+  Program: "/program"
   Schedule: 
       - Program: "/program"
+      - Invited Talks: "/speakers"
       - Accepted Papers: "/schedule#accepted-papers"
-      - Invited Speakers: "/program#speakers"
   # Schedule: "/schedule"
   PC: "/pc"
   # Submission Site: "https://easychair.org/conferences/?conf=rcqa20"

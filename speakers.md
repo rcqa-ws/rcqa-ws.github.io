@@ -8,20 +8,12 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 The following is the invited talks program for RCQA-20: 
 
-<!-- <div class="container">
-  <div class="column">
- -->
-
-
-
 <div class="container">
   <div class="row">
     <table class="table">
-  <tr>
-
+  	<tr>
 {% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include speakerinfo.html p=p %} {% endfor %}
-
-    </tr>
+	</tr>
   </table>
 </div>
 </div>
