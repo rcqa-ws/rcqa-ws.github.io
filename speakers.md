@@ -10,7 +10,20 @@ subtitle: Reasoning for Complex QA Workshop 2020
 <!-- <div class="container">
   <div class="column">
  -->
+
+
+
+<div class="container">
+  <div class="row">
+    <table class="table">
+  <tr>
+
 {% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include speakerinfo.html p=p %} {% endfor %}
+
+    </tr>
+  </table>
+</div>
+</div>
 
 <!-- </div>
 </div> -->
