@@ -10,13 +10,21 @@ subtitle: Reasoning for Complex QA Workshop 2020
 <div class="container">
   <div class="column">
 
-{% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {{ speaker.title }} {% endfor %}
+{% for p in site.data.speakers %} {% capture id %}{{ p[0] }}{% endcapture %} {% include profile.html p=p %} {% endfor %}
 
 </div>
 </div>
 
+{% for p in site.data.speakers %}
 
-## Ray Mooney
+{% capture id %}{{ p[0] }}{% endcapture %}
+
+## {{p.name}}
+
+{% endfor %}
+
+
+<!-- ## Ray Mooney
 
 ## Nasrin Mostafazadeh
 
@@ -26,4 +34,4 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 ## Robyn Speer
 
-## Bishan Yang
+## Bishan Yang -->
