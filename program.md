@@ -17,7 +17,7 @@ The following is a tentative schedule for the workshop -- we ask for your patien
 | 1040-1110	|	Posters 1 (30 mins, overlaps with coffee break) |
 | 1110-1140	| 	Invited Talk 2: [Nasrin Mostafazadeh](speakers.md/#nasrin) |
 | 1140-1200	|	Oral Paper 1: Why Do Masked Neural Language Models Still Need Commonsense Knowledge? |
-| 1200-1230	|	Invited Talk 3: [Bishan Yang](speakers.md/#bishan) |
+| 1200-1230	|	Invited Talk 3: [Bishan Yang](speakers/#bishan) |
 | 1230-1400	| 	Lunch (90 mins) |
 | 1400-1430	| 	Invited Talk 4: [Robyn Speer](speakers.md/#robyn) |
 | 1430-1500	| 	Invited Talk 5: [Sameer Singh](speakers.md/#sameer) |
