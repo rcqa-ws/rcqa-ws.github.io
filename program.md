@@ -26,7 +26,7 @@ The following is a tentative schedule for the workshop -- we ask for your patien
 | 1620-1650	| 	Invited Talk 6: [Dan Roth](speakers.md/#dan) |
 | 1650-1700	| 	Workshop Close |
 
-# Invited Speakers<a href="speakers"></a>
+# Invited Speakers<a name="speakers"></a>
 
 Invited talks will be 30 minutes each (25+5), and presented during their specific slots in the program. 
 
@@ -38,14 +38,14 @@ Invited talks will be 30 minutes each (25+5), and presented during their specifi
 </div>
 </div>
 
-# Oral Presentations<a href="orals"></a>
+# Oral Presentations<a name="orals"></a>
 
 The oral presentations will be 20 minutes each (15+5) and presented in the following order, in their specific slots in the program:
 
 - Why Do Masked Neural Language Models Still Need Commonsense Knowledge?
 - Unsupervised Question Decomposition for Question Answering
 
-# Spotlight Presentations<a href="spotlights"></a>
+# Spotlight Presentations<a name="spotlights"></a>
 
 The spotlight presentations will be 10 minutes each (8+2) and will all be presented in the first session of the workshop. This is to enable maximum discussion time during both poster sessions. The spotlights will be presented in the following order:
 
