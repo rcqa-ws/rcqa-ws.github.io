@@ -25,9 +25,14 @@ dan:
   affiliation: "UPenn"
   img: "dan.jpg"
   time: "1620-1650"
-  title: "TBA"
-  abstract: "TBA"
-  bio: "TBA"
+  title: "Why (and how) should we study Question Answering?"
+  abstract: "Recent work has shown exceptional performance on some QA datasets, along with lack of generalization and embarrassing performance in many situations. 
+It seems clear that supporting high level decisions that depend on natural language understanding is still beyond our capabilities, partly since most of these tasks are sparse and our current methodology of generating supervision signals for it does not scale. 
+What should we expect from research on QA then? And how should we think about the role of the various datasets and methodologies developed in this area? I will discuss these issues in the context of some recent results exhibiting the role of QA in improving latent semantic representations, and some positive and negative results on our ability to support some levels of reasoning over text. "
+  bio: "Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania, and a Fellow of the AAAS, the ACM, AAAI, and the ACL.
+In 2017 Roth was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized “for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.” 
+Roth has published broadly in machine learning, natural language processing, knowledge representation and reasoning, and learning theory, was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR) and a program co-chair of AAAI, ACL and CoNLL.
+Roth is a co-founder and the chief scientist of NexLP, Inc., a startup that leverages the latest advances in Natural Language Processing (NLP), Cognitive Analytics, and Machine Learning in the legal and compliance domains. Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Israel, and his Ph.D. in Computer Science from Harvard University in 1995."
 sameer:
   name: "Sameer Singh"
   shortname: "sameer"
