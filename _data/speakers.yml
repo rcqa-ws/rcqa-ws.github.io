@@ -15,9 +15,9 @@ nasrin:
   affiliation: "Elemental Cognition"
   img: "nasrin.jpg"
   time: "1110-1140"
-  title: "TBA"
-  abstract: "TBA"
-  bio: "TBA"
+  title: "Towards AI systems that can build coherent causal models of what they read!"
+  abstract: "There has been a tremendous progress in machine comprehension in the past couple of years, measured through various AI benchmarks. But are these models capable of building a coherent mental model of what they read? Humans make countless implicit commonsense inferences about everyday situations. When even young children read or listen to a narrative, they construct an elaborate mental model of what happened and why, combining the presented information with relevant background knowledge to construct the causal chain that describes how the events unfolded. Though humans build such mental models of situations with ease, AI systems for tasks such as reading comprehension remain far from exhibiting similar commonsense reasoning capability. Two major bottlenecks have been acquiring commonsense knowledge and finding ways to incorporate it into the state-of-the-art AI systems. In this talk, I will introduce a brand new commonsense reasoning framework and benchmark that helps solve both problems at scale!"
+  bio: "Nasrin is a senior research scientist at Elemental Cognition, focusing on commonsense reasoning and story understanding. Nasrin received her PhD at the University of Rochester working at the conversational interaction and dialogue research group. Her research focus has been on language understanding and commonsense reasoning in the context of stories, mainly through the lens of events and their causal and temporal relations. She has started various lines of research that push AI toward deeper language understanding with applications ranging from story generation to vision & language. Prior to joining Elemental Cognition, Nasrin held research positions at BenevolentAI, Microsoft, and Google. She has various publications in top AI conferences and has been a keynote speaker, chair, organizer, and program committee member at different AI venues. Nasrin was named to Forbes’ 30 Under 30 in Science 2019."
 dan:
   name: "Dan Roth"
   shortname: "dan"
