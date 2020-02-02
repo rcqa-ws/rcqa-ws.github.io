@@ -55,7 +55,6 @@ Please check out the full [Call for Papers](cfp.md).
 
 </div>
 </div>
-
 For a full list of the program committee, please visit the [organization page](pc.md). 
 
 <!-- 
