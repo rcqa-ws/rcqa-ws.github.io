@@ -5,6 +5,12 @@ subtitle: Reasoning for Complex QA Workshop 2020
 ---
 
 
+# Workshop Logistics
+
+- Workshop Location: *Madison Suite* (Second Floor)
+- Workshop Date: February 8, 2020 (Saturday)
+- Workshop Location: *Hilton Midtown* Hotel, New York NY
+
 # Invited Speakers<a name="speakers"></a>
 
 We are pleased to present our invited speakers for RCQA-20!  
