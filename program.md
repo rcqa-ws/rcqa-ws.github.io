@@ -9,9 +9,13 @@ subtitle: Reasoning for Complex QA Workshop 2020
 
 The following is a tentative schedule for the workshop -- we ask for your patience as we update the schedule to take into account conflicts and other constraints. The workshop will be held on February 8, 2020 (Saturday) as part of the [AAAI 2020 program](https://aaai.org/Conferences/AAAI-20/ws20/).
 
+## Logistics
+
 - Workshop Location: *Madison Suite* (Second Floor)
 - Workshop Date: February 8, 2020 (Saturday)
 - Workshop Location: *Hilton Midtown* Hotel, New York NY
+
+## Schedule
 
 | **Time** 	| 	**Event** |
 | ------------------ | ------------------ |
