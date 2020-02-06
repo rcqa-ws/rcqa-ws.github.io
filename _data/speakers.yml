@@ -54,7 +54,7 @@ robyn:
   time: "1400-1430"
   title: "ConceptNet in Context"
   abstract: "ConceptNet is a knowledge graph that aims to represent the basic things about word meanings that people know and computers inherently don’t. The ways in which it is used have changed a lot over its 20-year history. In our present context of powerful neural language models that are used for question answering, text generation, story understanding, and many other tasks, we can still see mistakes that would be improved by computational common sense, and sometimes the knowledge in ConceptNet can help. I’ll discuss how ConceptNet is integrated with various recent machine learning systems, how this relationship is evolving, and some best practices for using it."
-  bio: "Robyn Speer is the lead maintainer of ConceptNet, the multilingual common sense knowledge graph, and a founder of Luminoso, a Boston startup that implements transfer learning for domain-specific NLP. She is an alumna of MIT. She writes about developments in ConceptNet, related open-source tools, and fairness in machine learning, on her blog at [blog.conceptnet.io](https://blog.conceptnet.io)."
+  bio: "Robyn Speer is the lead maintainer of ConceptNet, the multilingual common sense knowledge graph, and a founder of Luminoso, a Boston startup that implements transfer learning for domain-specific NLP. She is an alumna of MIT. She writes about developments in ConceptNet, related open-source tools, and fairness in machine learning, on her blog at https://blog.conceptnet.io."
 bishan:
   name: "Bishan Yang"
   shortname: "bishan"
