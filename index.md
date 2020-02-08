@@ -17,29 +17,7 @@ The RCQA 2020 [workshop](https://aaai.org/Conferences/AAAI-20/ws20/) will be hel
 
 - Workshop Location: **Madison Suite** (Second Floor)
 - Workshop Date: February 8, 2020 (Saturday)
-- Workshop Location: *Hilton Midtown* Hotel, New York NY
-<!-- - Workshop Questions: [ibm.biz/rcqa-qa](https://docs.google.com/presentation/d/e/2QANgcCBGtg9oOugqkYHuthxzUBc8z08eOLMnVAQAH8YJNlwIOsB6G_cvTZx0_StSKMv0pHQxHUx-OLn1qEw/askquestion?seriesId=7362e393-747f-470c-be17-070388e53f4b)
- -->
-<!-- ## Important Dates<a name="important-dates"></a>
-
-- ~~Submission Deadline: November 19, 2019~~ 
-- ~~Time: AoE (Anywhere on Earth) *(UTC -12)*~~
-- ~~Notification: ~December 4, 2019~~
-- ~~AAAI Early [Registration](https://aaai.org/Conferences/AAAI-20/registration/) Deadline: December 13, 2019~~<br>
-*Please [write directly to AAAI](mailto:le@aaai.org) for visa invitation letters*
-- ~~Camera Ready Copy (CRC) Due: January 13, 2020 *(UTC -12)*~~
-- Workshop Date: February 8, 2020 (Saturday) -->
-
-<!-- ### Submission Site<a name="submission-site"></a> -->
-
-<!-- The submission site will be notified soon.  -->
-
-<!-- If you need to submit your camera-ready copy (CRC), the submission site can be [accessed here](https://easychair.org/conferences/?conf=rcqa20). -->
-
-<!-- ## Call for Papers<a name="cfp"></a>
-
-Please check out the full [Call for Papers](cfp.md).
- -->
+- Workshop Location: *Hilton Midtown* Hotel, New York NYs
 
 ## Invited Speakers<a name="speakers"></a>
 
