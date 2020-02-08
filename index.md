@@ -15,7 +15,7 @@ The RCQA 2020 [workshop](https://aaai.org/Conferences/AAAI-20/ws20/) will be hel
 
 ## Workshop Logistics
 
-- Workshop Location: *Madison Suite* (Second Floor)
+- Workshop Location: **Madison Suite** (Second Floor)
 - Workshop Date: February 8, 2020 (Saturday)
 - Workshop Location: *Hilton Midtown* Hotel, New York NY
 
