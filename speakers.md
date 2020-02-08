@@ -25,6 +25,10 @@ subtitle: Reasoning for Complex QA Workshop 2020
 </div>
 </div>
 
+# Questions
+
+Please use the following link to [ask speaker questions](https://docs.google.com/presentation/d/e/2QANgcCBGtg9oOugqkYHuthxzUBc8z08eOLMnVAQAH8YJNlwIOsB6G_cvTZx0_StSKMv0pHQxHUx-OLn1qEw/askquestion?seriesId=7362e393-747f-470c-be17-070388e53f4b).
+
 <!-- </div>
 </div> -->
 
