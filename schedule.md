@@ -46,7 +46,7 @@ The following is a list of papers accepted to the workshop. Copies of the paper 
 
 | **Title**                                                                                                       | **Authors**                                                              |
 |-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-|  [Generating Helpful Responses for Intelligent Tech Support]                                                  | *Wenhao Yu, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng and Meng Jiang* |
+|  [Generating Helpful Responses for Intelligent Tech Support](https://rcqa-ws.github.io/papers/paper5.pdf)                                                  | *Wenhao Yu, Lingfei Wu, Shu Tao, Yu Deng, Qingkai Zeng and Meng Jiang* |
 |  [Giving Commands to a Self\-driving Car: A Multimodal Reasoner for Visual Grounding](https://rcqa-ws.github.io/papers/paper7.pdf)                         | *Thierry Deruyttere, Guillem Collell and Marie\-Francine Moens*        |
 |  [Humor Detection based on Paragraph Decomposition and BERT Fine\-Tuning](https://rcqa-ws.github.io/papers/paper3.pdf)                                     | *Hao Yang, Yao Deng, Minghan Wang, Ying Qin and Shiliang Sun*          |
 |  [Online Discussion Facilitation Support](https://rcqa-ws.github.io/papers/paper11.pdf)                                                                     | *Wen Gu and Takayuki Ito*                                              |
