@@ -14,7 +14,7 @@ nasrin:
   shortname: "nasrin"
   url: "https://www.cs.rochester.edu/~nasrinm/"
   affiliation: "Elemental Cognition"
-  slides: ""
+  slides: "https://rcqa-ws.github.io/slides/nasrin.pdf"
   img: "nasrin.jpg"
   time: "1110-1140"
   title: "Towards AI systems that can build coherent causal models of what they read!"
