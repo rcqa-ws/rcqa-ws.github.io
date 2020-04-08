@@ -23,7 +23,7 @@ The following is a tentative schedule for the workshop -- we ask for your patien
 | 0900-0930	| 	Invited Talk 1: [Ray Mooney](speakers.md#ray), [`Slides`](https://rcqa-ws.github.io/slides/ray.pptx) |
 | 0930-1040	| 	[Spotlight Talks](#spotlights) (7x10 mins each) |
 | 1040-1110	|	Posters 1 (30 mins, overlaps with coffee break) |
-| 1110-1140	| 	Invited Talk 2: [Nasrin Mostafazadeh](speakers.md#nasrin) |
+| 1110-1140	| 	Invited Talk 2: [Nasrin Mostafazadeh](speakers.md#nasrin), [`Slides`](https://rcqa-ws.github.io/slides/nasrin.pdf) |
 | 1140-1200	|	Oral Paper 1: [Why Do Masked Neural Language Models Still Need Commonsense Knowledge?](https://rcqa-ws.github.io/papers/paper2.pdf) |
 | 1200-1230	|	Invited Talk 3: [Bishan Yang](speakers.md#bishan), [`Slides`](https://rcqa-ws.github.io/slides/bishan.pptx) |
 | 1230-1400	| 	Lunch (90 mins) |
